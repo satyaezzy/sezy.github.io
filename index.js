@@ -1,4 +1,4 @@
-var name = prompt('masukan nama title/judul halaman website ini. NAME TITLE ? ','');
+var name = prompt('masukan nama depan ceweknya satya ? ','');
 
 if(name == 'kayla'){
     alert('selamat datang kembali');
